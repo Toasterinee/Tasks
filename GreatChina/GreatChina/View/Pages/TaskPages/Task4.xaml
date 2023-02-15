@@ -3,7 +3,7 @@
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.GreatChina.com/expression/blend/2008" 
-      xmlns:local="clr-namespace:negri.View.Pages.TaskPages"
+      xmlns:local="clr-namespace:GreatChina.View.Pages.TaskPages"
       xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
       mc:Ignorable="d" 
       d:DesignHeight="700" d:DesignWidth="600">
@@ -13,11 +13,10 @@
                    Stretch="UniformToFill" Margin="10,-13,-7,0"/>
 
             <Border Background="White"
-            Width="250"
-            Height="230"
+            Width="226"
             HorizontalAlignment="Left"
             CornerRadius="10"
-            Effect="{StaticResource MaterialDesignElevationShadow1}">
+            Effect="{StaticResource MaterialDesignElevationShadow1}" Margin="21,333,0,19">
                 <Grid>
 
                     <Grid.RowDefinitions>

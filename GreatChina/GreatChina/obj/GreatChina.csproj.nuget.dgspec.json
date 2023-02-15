@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kingD\\source\\repos\\GreatChina\\GreatChina\\GreatChina.csproj": {}
+    "C:\\Users\\kingD\\Documents\\GitHub\\Takss\\GreatChina\\GreatChina\\GreatChina.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kingD\\source\\repos\\GreatChina\\GreatChina\\GreatChina.csproj": {
+    "C:\\Users\\kingD\\Documents\\GitHub\\Takss\\GreatChina\\GreatChina\\GreatChina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kingD\\source\\repos\\GreatChina\\GreatChina\\GreatChina.csproj",
+        "projectUniqueName": "C:\\Users\\kingD\\Documents\\GitHub\\Takss\\GreatChina\\GreatChina\\GreatChina.csproj",
         "projectName": "GreatChina",
-        "projectPath": "C:\\Users\\kingD\\source\\repos\\GreatChina\\GreatChina\\GreatChina.csproj",
+        "projectPath": "C:\\Users\\kingD\\Documents\\GitHub\\Takss\\GreatChina\\GreatChina\\GreatChina.csproj",
         "packagesPath": "C:\\Users\\kingD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kingD\\source\\repos\\GreatChina\\GreatChina\\obj\\",
+        "outputPath": "C:\\Users\\kingD\\Documents\\GitHub\\Takss\\GreatChina\\GreatChina\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
