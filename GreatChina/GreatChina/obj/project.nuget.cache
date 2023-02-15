@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cD2NRWwgkwpH2Sq3IbLroUEz0P/sNbqOMgwY1odA0bhGIQu7ownHOK4qBFepxbJJwsG8IfjpCZqcTNoYVEQlsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kingD\\source\\repos\\GreatChina\\GreatChina\\GreatChina.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kingD\\.nuget\\packages\\materialdesigncolors\\2.1.1\\materialdesigncolors.2.1.1.nupkg.sha512",
+    "C:\\Users\\kingD\\.nuget\\packages\\materialdesignthemes\\4.7.1\\materialdesignthemes.4.7.1.nupkg.sha512",
+    "C:\\Users\\kingD\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
