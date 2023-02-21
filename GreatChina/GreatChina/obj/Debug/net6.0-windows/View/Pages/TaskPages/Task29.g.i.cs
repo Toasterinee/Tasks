@@ -88,7 +88,7 @@ namespace GreatChina.View.Pages.TaskPages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GreatChina;component/view/pages/taskpages/task29.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GreatChina;V1.0.0.0;component/view/pages/taskpages/task29.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\..\View\Pages\TaskPages\Task29.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

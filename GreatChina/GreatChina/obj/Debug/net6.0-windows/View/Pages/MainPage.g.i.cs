@@ -296,7 +296,7 @@ namespace GreatChina.View.Pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GreatChina;component/view/pages/mainpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GreatChina;V1.0.0.0;component/view/pages/mainpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\View\Pages\MainPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
